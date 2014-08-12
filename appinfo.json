@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "maneltorrecilla@infonegocio.com",
+    "longName": "reloj inicial",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/reloj.PNG",
+                "name": "reloj",
+                "type": "png"
+            },
+            {
+                "file": "fonts/icomoon.ttf",
+                "name": "FONT_AWESOME_18",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "reloj0",
+    "uuid": "41694cc5-250b-481f-bc2f-5433b9abe501",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
